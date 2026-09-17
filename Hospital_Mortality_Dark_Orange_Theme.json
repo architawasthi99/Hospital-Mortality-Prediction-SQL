@@ -1,0 +1,43 @@
+{
+  "name": "Hospital Mortality - Dark Orange",
+  "dataColors": [
+    "#F28E2B",
+    "#5B8DB8",
+    "#F6C85F",
+    "#D95F02",
+    "#8C8C8C",
+    "#E15759"
+  ],
+  "background": "#050505",
+  "foreground": "#F2F2F2",
+  "tableAccent": "#F28E2B",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "color": {
+              "solid": {
+                "color": "#F28E2B"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#050505"
+              }
+            },
+            "transparency": 5
+          }
+        ]
+      }
+    }
+  }
+}
