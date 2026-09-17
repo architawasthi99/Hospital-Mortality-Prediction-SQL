@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Exploring the factors associated with in-hospital mortality using SQL, Excel, and Tableau.</b>
+  <b>Exploring the factors associated with in-hospital mortality using SQL, Excel, and PowerBI.</b>
 </p>
 
 ---
@@ -45,7 +45,7 @@ The goal of this project is to use data to uncover these patterns and present th
 |------|---------|
 | **Excel** | Data cleaning and preparation |
 | **MySQL** | Data querying and exploratory analysis |
-| **Tableau** | Interactive dashboard and visualization |
+| **PowerBI** | Interactive dashboard and visualization |
 | **SQL** | Aggregation, filtering, grouping, and analysis |
 
 ---
@@ -60,7 +60,6 @@ The dataset contains information about hospitalized ICU patients, including demo
 
 ## 🔗 Project Resources
 
-- 📊 **[Tableau Dashboard](https://public.tableau.com/app/profile/sharif.athar/viz/HospitalMortalityDashboard/Dashboard1)**
 - 💻 **[SQL Analysis](https://github.com/SharifAthar/Hospital-Mortality-Prediction-SQL/blob/main/Hospital_Mortality_SQL_Analysis.sql)**
 - 📁 **[Dataset](https://www.kaggle.com/datasets/mitishaagarwal/patient)**
 
